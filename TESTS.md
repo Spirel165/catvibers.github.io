@@ -1,1 +1,1 @@
-https://education.github.com/students
+# YO MAMA SO YO MAMA, SHES YO MAMA

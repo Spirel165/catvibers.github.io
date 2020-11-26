@@ -1,2 +1,2 @@
-# [Catvibe](catvibe.github.io)
+# [Catvibe](https://catvibe.github.io)
 Our personal website.

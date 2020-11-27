@@ -4,9 +4,9 @@ Our personal website.
 Most of us are inexperienced coders. As such, this will be a terrible website.
 
 ## Discord Branding Colours
-Blurple: #7289DA
-White: #FFFFFF
-Greyple: #99AAB5
-Dark, but not black: #2C2F33
-Not quite black: #23272A
-Actually Black: #000000
+Blurple: #7289DA  
+White: #FFFFFF  
+Greyple: #99AAB5  
+Dark, but not black: #2C2F33  
+Not quite black: #23272A  
+Actually Black: #000000  

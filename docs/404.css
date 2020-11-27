@@ -4,7 +4,7 @@
     }
   
     to {
-        left: 85%;
+        left: calc(100% - 315px);
     }
 }
 @keyframes bounccy {
@@ -13,7 +13,7 @@
     }
 
     to {
-        top: 100%;
+        left: calc(100% - 500px);
     }
 }
 body {

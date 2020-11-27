@@ -1,23 +1,23 @@
 body {
   color: white;
   background-color: #2C2F33;
-  font-family: Arial;
+  font-family: "Courier New";
 }
 h1 {
   color: white;
   background-color: #2C2F33;
-  font-family: Arial;
+  font-family: "Courier New";
   text-align: center;
 }
 p {
   color: white;
   background-color: #2C2F33;
-  font-family: Arial;
+  font-family: "Courier New";
 }
 li {
   color: white;
   background-color: #2C2F33;
-  font-family: Arial;
+  font-family: "Courier New";
 }
 .catvibe {
   background-color: #23272A;
@@ -30,6 +30,7 @@ li {
 }
 .button {
   background-color: #7289DA;
+  font-family: "Courier New";
   margin-left: auto;
   margin-right: auto;
   border: none;

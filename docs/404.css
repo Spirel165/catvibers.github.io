@@ -1,0 +1,32 @@
+@keyframes bounccx {
+    from {
+        left: 0;
+    }
+  
+    to {
+        left: 85%;
+    }
+}
+@keyframes bounccy {
+    from {
+        top: 0%;
+    }
+
+    to {
+        top: 100%;
+    }
+}
+body {
+    overflow: hidden;
+}
+
+.bouncc {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    overflow: hidden;
+    text-align: center;
+    white-space: nowrap;
+    animation: bounccx 3.05s linear infinite alternate, bounccy 3.4s linear infinite alternate;
+}
+  

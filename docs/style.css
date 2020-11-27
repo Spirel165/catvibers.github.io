@@ -4,21 +4,14 @@ body {
   font-family: "Courier New";
 }
 h1 {
-  color: white;
-  background-color: #2C2F33;
-  font-family: "Courier New";
   text-align: center;
 }
-p {
+p, li, h1 {
   color: white;
   background-color: #2C2F33;
   font-family: "Courier New";
 }
-li {
-  color: white;
-  background-color: #2C2F33;
-  font-family: "Courier New";
-}
+
 .catvibe {
   background-color: #23272A;
   display: block;
@@ -41,13 +34,16 @@ li {
   display: inline-block;
   font-size: 16px;
 }
-marquee {
-  @keyframes slidein {
-  from {
-    transform: translateX(0%);
-  }
-
-  to {
+@keyframes marquee {
+  0% {
     transform: translateX(100%);
   }
+
+  100% {
+    transform: translateX(-100%);
+  }
 }
+.marquee {
+  animation: slidein 5s ease-in-out infinite;
+}
+

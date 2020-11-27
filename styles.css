@@ -18,6 +18,9 @@ li {
   background-color: #99AAB5;
   font-family: Arial;
 }
+button {
+  text-align: center;
+}
 .catvibe {
   background-color: #2C2F33;
   display: block;

@@ -1,25 +1,28 @@
 body {
   color: #FFFFFF;
-  background-color: #7289DA;
+  background-color: #2C2F33;
   font-family: Arial;
 }
 h1 {
   color: #FFFFFF;
-  background-color: #7289DA;
+  background-color: #2C2F33;
   font-family: Arial;
 }
 p {
   color: #FFFFFF;
-  background-color: #7289DA;
+  background-color: #2C2F33;
   font-family: Arial;
 }
 li {
   color: #FFFFFF;
-  background-color: #7289DA;
+  background-color: #2C2F33;
   font-family: Arial;
 }
 .catvibe {
   display: block;
   margin-left: auto;
-  margin-right: auto
+  margin-right: auto;
+  border-style: solid;
+  border-width: thin;
+  border-color: #23272A;
 }

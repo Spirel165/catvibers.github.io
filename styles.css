@@ -1,5 +1,5 @@
 body {
-  color: #FFFFFF
+  color: #FFFFFF;
   background-color: #2C2F33;
   font-family: Arial;
 }
@@ -10,9 +10,11 @@ h1 {
 }
 p {
   color: #FFFFFF;
+  background-color: #2C2F33;
   font-family: Arial;
 }
 li {
   color: #FFFFFF;
+  background-color: #2C2F33;
   font-family: Arial;
 }

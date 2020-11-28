@@ -34,11 +34,6 @@ p, li, h1 {
   display: inline-block;
   font-size: 16px;
 }
-.button:hover {
-  width: 15;
-  height: 22.5;
-  transition: width height 1s;
-}
 @keyframes marquee {
   0% {
     transform: translateX(100%);
@@ -47,7 +42,7 @@ p, li, h1 {
     transform: translateX(-100%);
   }
 }
-.marquee {
+.marquee div {
   animation: slidein 5s ease-in-out infinite;
 }
 

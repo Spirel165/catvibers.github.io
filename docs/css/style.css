@@ -28,6 +28,9 @@ body, p, li, h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   font-size: 16px;
 }
+.button:hover {
+  padding: 15px 22.5px;
+}
 @keyframes marquee {
   0% {
     transform: translateX(100%);

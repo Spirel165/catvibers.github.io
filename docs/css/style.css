@@ -20,16 +20,15 @@ body, p, li, h1, h2, h3, h4, h5, h6 {
   font-family: "Courier New";
   margin-left: auto;
   margin-right: auto;
-  border: none;
   color: white;
-  padding: 12.5px 17.5px;
+  padding: 15px 20px;
   text-align: center;
-  text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  trsntition: transform 1s ease-in-out;
 }
 .button:hover {
-  padding: 15px 20px;
+  transform: scale(1.5);
 }
 @keyframes marquee {
   0% {

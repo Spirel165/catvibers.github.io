@@ -1,15 +1,11 @@
-body {
+
+body, p, li, h1, h2, h3, h4, h5, h6 {
   color: white;
   background-color: #2C2F33;
   font-family: "Courier New";
 }
-h1 {
+.centered {
   text-align: center;
-}
-p, li, h1 {
-  color: white;
-  background-color: #2C2F33;
-  font-family: "Courier New";
 }
 .catvibe {
   background-color: #23272A;

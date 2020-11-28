@@ -26,7 +26,7 @@ body, p, li, h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  trsntition: transform 1s ease-in-out;
+  transition: transform 1s ease-in-out;
 }
 .button:hover {
   transform: scale(1.25);

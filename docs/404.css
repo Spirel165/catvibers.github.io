@@ -1,10 +1,10 @@
 @keyframes bounccx {
-    from {
-        left: 0;
-    }
-  
-    to {
-        left: calc(100% - 315px);
+    0% {
+        transform: translateX(0%);
+      }
+    
+      100% {
+        transform: translateX(42%);
     }
 }
 @keyframes bounccy {
@@ -13,19 +13,18 @@
     }
 
     to {
-        left: calc(100% - 500px);
+        top: calc(100% - 315px);
     }
 }
 body {
     overflow: hidden;
+    height: 200%;
+    width: 100%;
 }
 
 .bouncc {
     position: absolute;
-    top: 50%;
-    left: 50%;
     overflow: hidden;
-    text-align: center;
     white-space: nowrap;
     animation: bounccx 3.05s linear infinite alternate, bounccy 3.4s linear infinite alternate;
 }

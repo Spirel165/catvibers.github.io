@@ -4,7 +4,7 @@
       }
     
       100% {
-        transform: translateX(42%);
+        transform: translateX(calc(100vw - 560px));
     }
 }
 @keyframes bounccy {

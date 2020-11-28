@@ -42,7 +42,15 @@ p, li, h1 {
     transform: translateX(-100%);
   }
 }
-.marquee div {
-  animation: slidein 5s ease-in-out infinite;
+
+.marquee {
+  animation: marquee 20s linear infinite;
 }
 
+.marquee:hover {
+  animation-play-state: paused;
+}
+
+.marquee__container {
+  overflow: hidden;
+}

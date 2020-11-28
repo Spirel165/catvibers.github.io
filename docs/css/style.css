@@ -11,7 +11,6 @@ p, li, h1 {
   background-color: #2C2F33;
   font-family: "Courier New";
 }
-
 .catvibe {
   background-color: #23272A;
   display: block;
@@ -42,15 +41,12 @@ p, li, h1 {
     transform: translateX(-100%);
   }
 }
-
 .marquee {
   animation: marquee 20s linear infinite;
 }
-
 .marquee:hover {
   animation-play-state: paused;
 }
-
 .marquee__container {
   overflow: hidden;
 }

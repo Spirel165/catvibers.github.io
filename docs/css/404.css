@@ -1,4 +1,4 @@
-@keyframes bounccx {
+@keyframes bounce-x {
     0% {
         transform: translateX(0%);
       }
@@ -7,7 +7,7 @@
         transform: translateX(calc(100vw - 560px));
     }
 }
-@keyframes bounccy {
+@keyframes bounce-y {
     from {
         top: 0%;
     }
@@ -22,10 +22,10 @@ body {
     width: 100%;
 }
 
-.bouncc {
+.bounce {
     position: absolute;
     overflow: hidden;
     white-space: nowrap;
-    animation: bounccx 3.05s linear infinite alternate, bounccy 3.4s linear infinite alternate;
+    animation: bounce-x 3.05s linear infinite alternate, bounce-y 3.4s linear infinite alternate;
 }
   

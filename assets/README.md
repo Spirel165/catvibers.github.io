@@ -1,6 +1,7 @@
-# Links to assets
+# Links to assets (Only here for my dumb friends)
 * [Cat_1](https://catvibers.tk/assets/cat_1.jpeg)
 * [Cat_2](https://catvibers.tk/assets/cat_2.gif)
+* [DVD](https://catvibers.tk/assets/dvd.jpeg)
 
 # Colours used
 * Blurple: #7289DA

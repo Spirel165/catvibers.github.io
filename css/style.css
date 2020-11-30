@@ -1,4 +1,4 @@
-body, p, li, h1, h2, h3, h4, h5, h6, a {
+body, p, li, h1, h2, h3, h4, h5, h6, {
   color: white;
   background-color: #2C2F33;
   font-family: "Courier New";

@@ -2,3 +2,9 @@
 Most of us are inexperienced coders. As such, this will be a terrible website.
 
 https://catvibers.github.io/ (Temporary until they unblock the domain)
+
+## Contributing
+Make a pull request or contact one of us on discord to have access.
+
+## License
+(MIT)[https://choosealicense.com/licenses/mit/]

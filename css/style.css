@@ -3,7 +3,8 @@ body, p, li, h1, h2, h3, h4, h5, h6 {
   background-color: #2C2F33;
   font-family: "Courier New";
 }
-.catvibe .centered {
+.centered {text-align: center}
+.catvibe {
   background-color: #23272A;
   display: block;
   margin-left: auto;
@@ -11,7 +12,6 @@ body, p, li, h1, h2, h3, h4, h5, h6 {
   border-style: solid;
   border-width: thick;
   border-color: #23272A;
-  text-align: center;
 }
 .button {
   background-color: #7289DA;

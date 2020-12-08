@@ -7,4 +7,4 @@ https://catvibers.github.io/ (Temporary until they unblock the domain)
 Make a pull request or contact one of us on discord to have access.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit)
+[CC0 1.0 Universal](https://choosealicense.com/licenses/mit)

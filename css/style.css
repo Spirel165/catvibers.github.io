@@ -1,10 +1,12 @@
 body, p, li, h1, h2, h3, h4, h5, h6 
+
 {
   color: white;
   background-color: #2c2f33;
-  font-family: "Courier New", Courier;
+  font-family: "Courier New", monospace;
 }
-/*Custom Classes*/
+
+/*Custom Classes*/ 
 .centered { text-align: center; }
 
 .catvibe {
@@ -34,11 +36,13 @@ body, p, li, h1, h2, h3, h4, h5, h6
 .button:hover {
   transform: scaleX(1.1) scaleY(1.15);
 }
+
 /*Marquee*/
 @keyframes marquee {
   0% {
     transform: translateX(100%);
   }
+
   100% {
     transform: translateX(-100%);
   }

@@ -14,7 +14,6 @@
   <a href="https://github.com/Catvibers/catvibers.github.io/stargazers">
     <img src="https://img.shields.io/github/stars/catvibers/catvibers.github.io?style=for-the-badge">
   </a>
-  <a href=
 <h1>The Catvibers Forum.</h1>
 <p>A private forum that we're going to use to discuss many things.<br>
 Most of us are inexperienced coders. As such, this will be a terrible website.</p>

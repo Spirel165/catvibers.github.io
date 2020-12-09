@@ -6,6 +6,7 @@
     transform: translateX(calc(100vw - 560px));
     }
 }
+
 @keyframes bounce-y {
     from {
         top: 0%;

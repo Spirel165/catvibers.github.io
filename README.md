@@ -9,4 +9,6 @@
     <img src="https://img.shields.io/github/license/catvibers/catvibers.github.io?style=for-the-badge">
   </a>
 </p>
-<h1 align="center">Most of us are inexperienced coders. As such, this will be a terrible website.</h1>
+# The Catvibers Forum.
+A private forum that we're going to use to discuss many things.
+Most of us are inexperienced coders. As such, this will be a terrible website.

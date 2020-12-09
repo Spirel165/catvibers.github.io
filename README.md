@@ -1,4 +1,4 @@
-<div style="align:center">
+<p align="center">
   <a href="https://www.codefactor.io/repository/github/catvibers/catvibers.github.io">
     <img src="https://img.shields.io/codefactor/grade/github/catvibers/catvibers.github.io?style=for-the-badge">
   </a>
@@ -8,5 +8,5 @@
   <a href="https://github.com/Catvibers/catvibers.github.io/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/catvibers/catvibers.github.io?style=for-the-badge">
   </a>
-</div>
+</p>
 <p>Most of us are inexperienced coders. As such, this will be a terrible website.</p

@@ -1,4 +1,4 @@
-<div style="display:block;margin-left:auto;margin-right:auto;width:50%;">
+<div style="align:center">
   <a href="https://www.codefactor.io/repository/github/catvibers/catvibers.github.io">
     <img src="https://img.shields.io/codefactor/grade/github/catvibers/catvibers.github.io?style=for-the-badge">
   </a>

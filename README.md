@@ -11,18 +11,6 @@
   <a href="https://github.com/Catvibers/catvibers.github.io/blob/main/LICENSE" target="_blank">
     <img src="https://img.shields.io/github/license/catvibers/catvibers.github.io?style=for-the-badge">
   </a><br>
-  <a href="https://github.com/Catvibers/catvibers.github.io/network/members" target="_blank">
-    <img src="https://img.shields.io/github/forks/Catvibers/catvibers.github.io?style=for-the-badge">
-  </a>
-  <a href="https://github.com/Catvibers/catvibers.github.io/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/catvibers/catvibers.github.io?style=for-the-badge">
-  </a>
-  <a href="https://github.com/Catvibers/catvibers.github.io/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/catvibers/catvibers.github.io?style=for-the-badge">
-  </a>
-  <a href="https://github.com/Catvibers/catvibers.github.io/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr-closed/catvibers/catvibers.github.io?style=for-the-badge">
-  </a>
 <h1>The Catvibers Forum.</h1>
 <p>A private forum that we're going to use to discuss many things.<br>
 Most of us are inexperienced coders. As such, this will be a terrible website.</p>

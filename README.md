@@ -9,4 +9,4 @@
     <img src="https://img.shields.io/github/license/catvibers/catvibers.github.io?style=for-the-badge">
   </a>
 </p>
-<p align="center">Most of us are inexperienced coders. As such, this will be a terrible website.</p
+<h1 align="center">Most of us are inexperienced coders. As such, this will be a terrible website.</h1>

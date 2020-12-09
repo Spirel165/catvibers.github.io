@@ -2,7 +2,7 @@
     0% {
     transform: translateX(0%);
       }
-    
+
       100% {
     transform: translateX(calc(100vw - 560px));
     }

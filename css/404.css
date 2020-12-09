@@ -1,4 +1,4 @@
-@keyframes bounce-x{
+@keyframes bounce-x {
     0% {
         transform: translateX(0%);
       }
@@ -7,7 +7,7 @@
         transform: translateX(calc(100vw - 560px));
     }
 }
-@keyframes bounce-y{
+@keyframes bounce-y {
     from {
         top: 0%;
     }
@@ -16,12 +16,12 @@
         top: calc(100% - 315px);
     }
 }
-body{
+body {
     overflow: hidden;
     height: 200%;
     width: 100%;
 }
-.bounce{
+.bounce {
     position: absolute;
     overflow: hidden;
     white-space: nowrap;

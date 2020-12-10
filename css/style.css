@@ -23,6 +23,7 @@ html, body, p, li, h1, h2, h3, h4, h5, h6 {
   transform: scaleX(1.1) scaleY(1.15);
 }
 
+/* Custom IDs */
 #bottombar {
   text-align: center;
 }
@@ -35,4 +36,14 @@ html, body, p, li, h1, h2, h3, h4, h5, h6 {
   border-style: solid;
   border-width: thick;
   border-color: #23272a;
+}
+
+#hits {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 500px;
+   height: 500px;
+   margin-top: -250px; /* Half the height */
+   margin-left: -250px; /* Half the width */
 }

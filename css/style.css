@@ -1,12 +1,4 @@
-body,
-p,
-li,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+html, body, p, li, h1, h2, h3, h4, h5, h6 {
   color: white;
   background-color: #2c2f33;
   font-family: "Courier New", monospace;
@@ -41,4 +33,14 @@ h6 {
 
 .button:hover {
   transform: scaleX(1.1) scaleY(1.15);
+}
+
+#bottomcontainer {
+  min-height: 100%;
+  position: relative;
+}
+
+#bottomfooter {
+  position: absolute;
+  bottom: 10;
 }

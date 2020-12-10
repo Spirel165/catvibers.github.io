@@ -19,7 +19,7 @@ html, body, p, li, h1, h2, h3, h4, h5, h6 {
   transition: transform 0.25s cubic-bezier(0.65, 0, 0.35, 1);
 }
 
-.button:hover { transform: scaleX(1.05) scaleY(1.1) }
+.button:hover { transform: scaleX(1.05) scaleY(1.1); }
 
 /* Custom IDs */
 #bottombar {

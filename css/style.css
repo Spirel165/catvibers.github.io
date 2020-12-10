@@ -20,12 +20,20 @@ html, body, p, li, h1, h2, h3, h4, h5, h6 {
 }
 
 .button:hover {
-  transform: scaleX(1.1) scaleY(1.15);
+  transform: scaleX(1.05) scaleY(1.10);
 }
 
 /* Custom IDs */
 #bottombar {
   text-align: center;
+  width: 10%;
+  height: 100px;    
+  position: relative;
+}
+
+#bottomchild {
+  position: absolute;
+  bottom: 0;
 }
 
 #catvibe {

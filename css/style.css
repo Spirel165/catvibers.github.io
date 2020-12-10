@@ -44,6 +44,6 @@ html, body, p, li, h1, h2, h3, h4, h5, h6 {
    left: 50%;
    width: 500px;
    height: 500px;
-   margin-top: -50px; /* Half the height */
-   margin-left: -265px; /* Half the width */
+   margin-top: -100px; /* Half the height */
+   margin-left: -530px; /* Half the width */
 }

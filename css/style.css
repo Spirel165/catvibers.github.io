@@ -4,6 +4,9 @@ html, body, p, li, h1, h2, h3, h4, h5, h6 {
   font-family: "Courier New", monospace;
 }
 
+html { height: 100%; }
+body { min-height: 100%; display: flex; flex-direction: column; }
+
 /* Custom Classes */
 .button {
   background-color: #7289da;
@@ -27,6 +30,7 @@ html, body, p, li, h1, h2, h3, h4, h5, h6 {
 #bottombar {
   text-align: center;
   margin-top: auto;
+  flex: 1;
 }
 
 #catvibe {

@@ -26,8 +26,6 @@ html, body, p, li, h1, h2, h3, h4, h5, h6 {
 /* Custom IDs */
 #bottombar {
   text-align: center;
-  position: absolute;
-  bottom: 10;
 }
 
 #catvibe {
